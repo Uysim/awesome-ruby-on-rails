@@ -3,7 +3,10 @@
 ### Gems
 - [Devise](https://github.com/plataformatec/devise) : User authentication
 
+
+### Opensource Project
+- [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
+
 ### TO DO
-- [ ] Opensource project
 - [ ] Blog
 - [ ] Tutorial
