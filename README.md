@@ -11,6 +11,7 @@
 
 ### Opensource Project
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
+- [ShareTribe](https://github.com/sharetribe/sharetribe) : Market Place
 
 ### TO DO
 - [ ] Blog
