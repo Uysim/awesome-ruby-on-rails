@@ -7,7 +7,7 @@
 - [Sidekiq](https://github.com/mperham/sidekiq) : Background Job
 - [AssetSync](https://github.com/AssetSync/asset_sync) : Synchronises Rails Assets with S3
 - [Mobility](https://github.com/shioyama/mobility) : Translations
-- [SpreeCommerce](https://github.com/spree) : Spree Commerce
+- [SpreeCommerce](https://github.com/spree/spree) : Spree Commerce
 
 
 ### Opensource Project
