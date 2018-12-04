@@ -12,6 +12,7 @@
 ### Opensource Project
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
 - [ShareTribe](https://github.com/sharetribe/sharetribe) : Market Place
+- [RedMine](https://github.com/redmine/redmine) : Flexible project management
 
 ### Blogs
 - [Uysim](http://uysim.com)
