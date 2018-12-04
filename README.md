@@ -8,6 +8,7 @@
 - [AssetSync](https://github.com/AssetSync/asset_sync) : Synchronises Rails Assets with S3
 - [Mobility](https://github.com/shioyama/mobility) : Translations
 - [SpreeCommerce](https://github.com/spree/spree) : Spree Commerce
+- [Chartkick](https://github.com/ankane/chartkick) : Create beautiful JavaScript charts
 
 
 ### Opensource Project
