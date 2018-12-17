@@ -16,6 +16,7 @@
 - [ShareTribe](https://github.com/sharetribe/sharetribe) : Market Place
 - [RedMine](https://github.com/redmine/redmine) : Flexible project management
 - [Tracks](https://github.com/TracksApp/tracks) : to-do-list manager
+- [PublicLab](https://github.com/publiclab/plots2) : Decision Making community
 
 ### Blogs
 - [Uysim](http://uysim.com)
