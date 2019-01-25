@@ -10,6 +10,7 @@
 - [SpreeCommerce](https://github.com/spree/spree) : Spree Commerce
 - [Chartkick](https://github.com/ankane/chartkick) : Create beautiful JavaScript charts
 - [Apartment](https://github.com/influitive/apartment): Multitenancy for Rails with Postgres schema
+- [Rails ERD](https://github.com/voormedia/rails-erd): Generate ERD for Ruby On Rails
 
 
 ### Opensource Project
