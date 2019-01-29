@@ -19,6 +19,7 @@
 - [RedMine](https://github.com/redmine/redmine) : Flexible project management
 - [Tracks](https://github.com/TracksApp/tracks) : to-do-list manager
 - [PublicLab](https://github.com/publiclab/plots2) : Decision Making community
+- [CONSUL](https://github.com/consul/consul): Citizen Participation and Open Government Application
 
 ### Blogs
 - [Uysim](http://uysim.com)
