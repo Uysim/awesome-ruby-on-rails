@@ -24,5 +24,9 @@
 ### Blogs
 - [Uysim](http://uysim.com)
 
+### Style Guide
+- [Ruby Style Guide by Airbnb](https://github.com/airbnb/ruby)
+- [Ruby Style Guide by Rubocop](https://github.com/rubocop-hq/ruby-style-guide)
+
 ### TO DO
 - [ ] Tutorial
