@@ -20,6 +20,7 @@
 - [Tracks](https://github.com/TracksApp/tracks) : to-do-list manager
 - [PublicLab](https://github.com/publiclab/plots2) : Decision Making community
 - [CONSUL](https://github.com/consul/consul): Citizen Participation and Open Government Application
+- [Houdini](https://github.com/HoudiniProject/houdini): Fully-free and open fundraising infrastructure for nonprofits and NGOs
 
 ### Blogs
 - [Uysim](http://uysim.com)
