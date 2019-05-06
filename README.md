@@ -28,6 +28,7 @@
 ### Style Guide
 - [Ruby Style Guide by Airbnb](https://github.com/airbnb/ruby)
 - [Ruby Style Guide by Rubocop](https://github.com/rubocop-hq/ruby-style-guide)
+- [Rails Hand Book](https://github.com/infinum/rails-handbook)
 
 ### TO DO
 - [ ] Tutorial
