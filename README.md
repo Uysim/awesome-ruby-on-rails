@@ -13,6 +13,7 @@
 - [Rails ERD](https://github.com/voormedia/rails-erd): Generate ERD for Ruby On Rails
 - [i18n Tasks](https://github.com/glebm/i18n-tasks): i18n-tasks helps you find and manage missing and unused translations
 - [Responders](https://github.com/plataformatec/responders): Set of responders modules to dry up your Rails
+- [Pretender](https://github.com/ankane/pretender): Impersonate from a user to other user
 
 ### Opensource Project
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
