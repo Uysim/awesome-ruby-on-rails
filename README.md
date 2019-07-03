@@ -14,6 +14,7 @@
 - [i18n Tasks](https://github.com/glebm/i18n-tasks): i18n-tasks helps you find and manage missing and unused translations
 - [Responders](https://github.com/plataformatec/responders): Set of responders modules to dry up your Rails
 - [Pretender](https://github.com/ankane/pretender): Impersonate from a user to other user
+- [Faraday](https://github.com/lostisland/faraday): an HTTP client library that provides a common interface over many adapters
 
 ### Opensource Project
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
