@@ -26,6 +26,8 @@
 - [CONSUL](https://github.com/consul/consul): Citizen Participation and Open Government Application
 - [Houdini](https://github.com/HoudiniProject/houdini): Fully-free and open fundraising infrastructure for nonprofits and NGOs
 - [Zammad](https://github.com/zammad/zammad): open source helpdesk/customer support system with many features to manage customer communication
+- [OpenProject](https://github.com/opf/openproject): web-based project management software
+
 ### Blogs
 - [Uysim](http://uysim.com)
 
