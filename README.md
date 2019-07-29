@@ -27,6 +27,7 @@
 - [Houdini](https://github.com/HoudiniProject/houdini): Fully-free and open fundraising infrastructure for nonprofits and NGOs
 - [Zammad](https://github.com/zammad/zammad): open source helpdesk/customer support system with many features to manage customer communication
 - [OpenProject](https://github.com/opf/openproject): web-based project management software
+- [SniBox](https://github.com/snibox/snibox): self-hosted snippet manager 
 
 ### Blogs
 - [Uysim](http://uysim.com)
