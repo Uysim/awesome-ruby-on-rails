@@ -15,6 +15,7 @@
 - [Responders](https://github.com/plataformatec/responders): Set of responders modules to dry up your Rails
 - [Pretender](https://github.com/ankane/pretender): Impersonate from a user to other user
 - [Faraday](https://github.com/lostisland/faraday): an HTTP client library that provides a common interface over many adapters
+- [Friendly ID](https://github.com/norman/friendly_id): create pretty URLs and work with human-friendly strings
 
 ### Opensource Project
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
