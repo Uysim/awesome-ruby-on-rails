@@ -28,6 +28,7 @@
 - [Zammad](https://github.com/zammad/zammad): open source helpdesk/customer support system with many features to manage customer communication
 - [OpenProject](https://github.com/opf/openproject): web-based project management software
 - [SniBox](https://github.com/snibox/snibox): self-hosted snippet manager 
+- [If Me](https://github.com/ifmeorg/ifme): community for mental health experiences that encourages people to share their personal stories with trusted allies
 
 ### Blogs
 - [Uysim](http://uysim.com)
