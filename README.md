@@ -17,6 +17,9 @@
 - [Faraday](https://github.com/lostisland/faraday): an HTTP client library that provides a common interface over many adapters
 - [Friendly ID](https://github.com/norman/friendly_id): create pretty URLs and work with human-friendly strings
 - [ShowFor](https://github.com/plataformatec/show_for): quickly show a model information
+- [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources): developing an API server that complies with the JSON:API specification
+- [ActiveModelSerializers](https://github.com/rails-api/active_model_serializers): Serializer for active model
+- [Fast JSON API](https://github.com/Netflix/fast_jsonapi): A lightning fast JSON:API serializer for Ruby Objects
 
 ### Opensource Project
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
